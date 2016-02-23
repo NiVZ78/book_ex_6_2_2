@@ -1,0 +1,20 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "paulniven@aol.com",
+    "enableMultiJS": true,
+    "longName": "BOOK_EX_6_2_2",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "BOOK_EX_6_2_2",
+    "uuid": "5f0b4877-1f70-436c-99a0-441b7f1a8d7a",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
